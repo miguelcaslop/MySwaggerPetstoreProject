@@ -1,0 +1,18 @@
+{
+  "id": 197,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "ponchito",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
